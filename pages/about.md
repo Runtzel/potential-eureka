@@ -3,7 +3,7 @@ layout: page
 title: About 
 order: 1
 object-id: about
-permalink: /about.html
+permalink: potential-eureka/about.html
 ---
 # About {{site.title}}
 
